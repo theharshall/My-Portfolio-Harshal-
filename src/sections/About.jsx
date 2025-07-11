@@ -43,7 +43,7 @@ const About = () => {
                 withScrollTrigger={true}
             />
             <a
-                href="/myresume.pdf"
+                href="/public/myresume.pdf"
 
                 download
                 className="absolute  bottom-4 right-5 z-10 bg-gradient-to-r from-black via-white to-black text-black px-10 py-3 rounded-full flex items-center  gap-2 text-sm md:text-base font-semibold shadow-lg hover:scale-105 transition duration-300"
